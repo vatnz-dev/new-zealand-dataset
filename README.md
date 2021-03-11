@@ -1,6 +1,8 @@
 # VATNZ vatSys Dataset Project
 
-[![Currently Released AIRAC](https://img.shields.io/badge/Currently%20Released%20AIRAC-2014A-blue)](https://github.com/vatnz-dev/new-zealand-dataset)
+[![Currently Released AIRAC](https://img.shields.io/badge/Currently%20Released%20AIRAC-2102d-blue)](https://github.com/vatnz-dev/new-zealand-dataset)
+
+### **This is the working directory for the Position Rewrite**, and is not the present working directory for the next AIRAC cycle. The working branch for the next AIRAC cycle is 'airac-wip'.
 
 The VATNZ vatSys Dataset project is an open source collaborative project allowing members of the VATNZ community to work together to create a high-quality dataset to use in vatSys.
 
