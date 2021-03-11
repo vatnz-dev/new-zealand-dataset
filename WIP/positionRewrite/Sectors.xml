@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- -->
+
+<Sectors xmlns:xsd="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+	<!-- Enroute Positions -->
+
+	<Sector FullName="Oceanic Radar" Frequency="123.900" Callsign="NZAA_CTR" Name="OCR">
+		<Volumes>OCR</Volumes>
+		<ResponsibleSectors>RAN,BAY</ResponsibleSectors>
+	</Sector>
+
+	<Sector FullName="Raglan" Frequency="126.000" Callsign="NZAA-R_CTR" Name="RAN"><!-- Event Only -->
+		<Volumes>RAN</Volumes>
+	</Sector>
+
+	<Sector FullName="Bays" Frequency="119.500" Callsign="NZCH-B_CTR" Name="BAY">
+		<Volumes>BAY</Volumes>
+	</Sector>
+
+	<Sector FullName="Taranaki" Frequency="123.700" Callsign="NZCH-T_CTR" Name="NAK">
+		<Volumes>NAK</Volumes>
+		<ResponsibleSectors>OHA</ResponsibleSectors>
+	</Sector>
+
+	<Sector FullName="Ohakea Area" Frequency="126.200" Callsign="NZOH_CTR" Name="OHA">
+		<Volumes></Volumes>
+	</Sector>
+
+	<Sector FullName="Kaikoura" Frequency="129.300" Callsign="NZCH-K_CTR" Name="KAI">
+		<Volumes>KAI</Volumes>
+	</Sector>
+
+	<Sector FullName="South Area" Frequency="129.400" Callsign="NZCH-S_CTR" Name="STH">
+		<Volumes>STH</Volumes>
+	</Sector>
+
+	<!-- -->
+
+	<Sector FullName="" Frequency="" Callsign="" Name="">
+		<Volumes></Volumes>
+	</Sector>
+
+</Sectors>
