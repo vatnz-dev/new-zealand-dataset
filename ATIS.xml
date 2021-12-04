@@ -8,7 +8,7 @@
 	<Frequency Airport="NZGS" Frequency="126.400" />
 	<Frequency Airport="NZHN" Frequency="128.650" />
 	<Frequency Airport="NZNP" Frequency="127.050" />
-	<Frequency Airport="NZNR" Frequency="121.800" />
+	<Frequency Airport="NZNR" Frequency="128.000" />
 	<Frequency Airport="NZNS" Frequency="129.100" />
 	<Frequency Airport="NZNV" Frequency="127.000" />
 	<Frequency Airport="NZOH" Frequency="135.000" />
@@ -19,6 +19,9 @@
 	<Frequency Airport="NZWB" Frequency="126.050" />
 	<Frequency Airport="NZWP" Frequency="128.300" />
   </Frequencies>
+
+  <!-- Spoken Translations -->
+
   <Translations>
     <Translation String="NZAA" Spoken="Auckland" />
     <Translation String="NZWP" Spoken="Whenuapai" />
@@ -138,9 +141,12 @@
 	<Translation String="FNA" Spoken="final approach" />
 	<Translation String="LVP" Spoken="low visibility procedures" />
 	<Translation String="REF" Spoken="refer" />	
-
     <Translation String="RWY" Spoken="runway" />
     <Translation String="RWYS" Spoken="runways" />
+	
+	<!--Changes xxx.xxx to xxx decimal xxx for frequencies -->
+	<Translation Regex="(\d{3})\.(\d{1,3})" Spoken="$1 decimal $2" />
+	
     <!--Changes L to Left when it is associated with a two digit runway identifier-->
 	<Translation Regex="([012]\d|[3][0123456])L AND R" Spoken="$1 left and right" />
     <Translation Regex="([012]\d|[3][0123456])L AND C" Spoken="$1 left and centre" />
