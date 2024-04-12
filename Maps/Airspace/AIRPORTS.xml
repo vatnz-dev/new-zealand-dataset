@@ -134,6 +134,7 @@
       <Point>NZOF</Point>
       <Point>NZOG</Point>
       <Point>NZOH</Point>
+      <Point>NZOI</Point>
       <Point>NZOM</Point>
       <Point>NZON</Point>
       <Point>NZOP</Point>
@@ -157,6 +158,7 @@
       <Point>NZQW</Point>
       <Point>NZRA</Point>
       <Point>NZRC</Point>
+      <Point>NZRD</Point>
       <Point>NZRI</Point>
       <Point>NZRK</Point>
       <Point>NZRL</Point>
@@ -187,6 +189,7 @@
       <Point>NZTT</Point>
       <Point>NZTU</Point>
       <Point>NZTW</Point>
+      <Point>NZTX</Point>
       <Point>NZTZ</Point>
       <Point>NZUA</Point>
       <Point>NZUB</Point>
@@ -351,6 +354,7 @@
       <Point Name="OF">NZOF</Point>
       <Point Name="OG">NZOG</Point>
       <Point Name="OH">NZOH</Point>
+      <Point Name="OI">NZOI</Point>
       <Point Name="OM">NZOM</Point>
       <Point Name="ON">NZON</Point>
       <Point Name="OP">NZOP</Point>
@@ -374,6 +378,7 @@
       <Point Name="QW">NZQW</Point>
       <Point Name="RA">NZRA</Point>
       <Point Name="RC">NZRC</Point>
+      <Point Name="RD">NZRD</Point>
       <Point Name="RI">NZRI</Point>
       <Point Name="RK">NZRK</Point>
       <Point Name="RL">NZRL</Point>
@@ -404,6 +409,7 @@
       <Point Name="TT">NZTT</Point>
       <Point Name="TU">NZTU</Point>
       <Point Name="TW">NZTW</Point>
+      <Point Name="TX">NZTX</Point>
       <Point Name="TZ">NZTZ</Point>
       <Point Name="UA">NZUA</Point>
       <Point Name="UB">NZUB</Point>

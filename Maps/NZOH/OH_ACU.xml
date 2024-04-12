@@ -24,10 +24,12 @@
     <Line Pattern="Dashed">
       <!--Rwy09 OH1R-->
     </Line>
+    <Symbol Type="SolidStar">
+      <Point>DANPO</Point>
+    </Symbol>
     <Symbol Type="HollowTriangle">
       <Point>OH09T</Point>
       <Point>OH27T</Point>
-      <Point>DANPO</Point>
       <Point>SOTVO</Point>
       <Point>ABTOL</Point>
       <Point>NUNGI</Point>
@@ -48,7 +50,7 @@
   </Map>
   <Map Type="System2" Name="09 STARs" Priority="1" CustomColourName="ProcArr" Center="-40.202656+175.374325">
     <Line>
-      <!--Rwy09 BINI1H-->
+      <!--Rwy09 BINI2H-->
       BINIT/DOTGO
     </Line>
     <Line>
@@ -125,9 +127,11 @@
       <!--Rwy27 OH1S-->
       OH27T/OH09T
     </Line>
+    <Symbol Type="SolidStar">
+      <Point>ENGOK</Point>
+    </Symbol>
     <Symbol Type="HollowTriangle">
       <Point>OH27T</Point>
-      <Point>ENGOK</Point>
       <Point>IDSEN</Point>
       <Point>ABTOL</Point>
       <Point>SANUB</Point>
@@ -148,11 +152,11 @@
   </Map>
   <Map Type="System2" Name="27 STARs" Priority="1" CustomColourName="ProcArr" Center="-40.209364+175.399772">
     <Line>
-      <!--Rwy27 BINI1G-->
+      <!--Rwy27 BINI2G-->
       BINIT/UPRIX/AVGUV/TERIL/LUXUL
     </Line>
     <Line>
-      <!--Rwy27 IDLU1G-->
+      <!--Rwy27 IDLU2G-->
       IDLUR/MOSDO/ENDIX
     </Line>
     <Symbol Type="HollowTriangle">
@@ -200,7 +204,7 @@
       <Point>PEDBA</Point>
     </Label>
   </Map>
-  <Map Type="System2" Name="15 RNP" Priority="1" Center="-40.199731+175.386006" CustomColourName="ProcArr">
+  <Map Type="System2" Name="15 RNP" Priority="1" Center="-40.199703+175.386042" CustomColourName="ProcArr">
     <!--Fix Symbols-->
     <Symbol Type="HollowTriangle" />
     <!--IAF Symbols-->
@@ -215,11 +219,11 @@
     </Symbol>
     <!--IF Symbols-->
     <Symbol Type="SolidTriangle" />
-    <Line Pattern="Solid">GUPIL/DOXIN/-401159.032+1752309.622</Line>
+    <Line Pattern="Solid">GUPIL/DOXIN/-401158.931+1752309.751</Line>
     <Line Pattern="Solid">ADKIS/GUPIL</Line>
     <Line Pattern="Solid">BOBIT/GUPIL</Line>
   </Map>
-  <Map Type="System2" Name="15 RNP Labels" Priority="1" Center="-40.199731+175.386006" CustomColourName="ProcArr">
+  <Map Type="System2" Name="15 RNP Labels" Priority="1" Center="-40.199703+175.386042" CustomColourName="ProcArr">
     <Label HasLeader="true">
       <Point>GUPIL</Point>
       <Point>ADKIS</Point>
@@ -227,7 +231,7 @@
       <Point>DOXIN</Point>
     </Label>
   </Map>
-  <Map Type="System2" Name="33 RNP" Priority="1" Center="-40.217264+175.390464" CustomColourName="ProcArr">
+  <Map Type="System2" Name="33 RNP" Priority="1" Center="-40.217233+175.390497" CustomColourName="ProcArr">
     <!--Fix Symbols-->
     <Symbol Type="HollowTriangle" />
     <!--IAF Symbols-->
@@ -242,11 +246,11 @@
     </Symbol>
     <!--IF Symbols-->
     <Symbol Type="SolidTriangle" />
-    <Line Pattern="Solid">SOSLA/VELSU/-401302.150+1752325.670</Line>
+    <Line Pattern="Solid">SOSLA/VELSU/-401302.039+1752325.789</Line>
     <Line Pattern="Solid">NOBED/SOSLA</Line>
     <Line Pattern="Solid">VARNO/SOSLA</Line>
   </Map>
-  <Map Type="System2" Name="33 RNP Labels" Priority="1" Center="-40.217264+175.390464" CustomColourName="ProcArr">
+  <Map Type="System2" Name="33 RNP Labels" Priority="1" Center="-40.217233+175.390497" CustomColourName="ProcArr">
     <Label HasLeader="true">
       <Point>SOSLA</Point>
       <Point>NOBED</Point>
@@ -254,7 +258,7 @@
       <Point>VELSU</Point>
     </Label>
   </Map>
-  <Map Type="System2" Name="VFRPoint" Priority="1" CustomColourName="VFRPoint" Center="-40.206667+175.386944">
+  <Map Type="System2" Name="VFRPoint" Priority="1" CustomColourName="VFRPoint" Center="-40.206689+175.386897">
     <Symbol Type="HollowSquare">
       <Point Name="AOKAUTERE">-402154.400+1753949.800</Point>
       <Point Name="ASHHURST">-401719.000+1754518.500</Point>
@@ -299,9 +303,9 @@
       <Point Name="THE PONDS">-405935.000+1754100.000</Point>
       <Point Name="TIMBER MILL">-405802.900+1753609.700</Point>
       <Point Name="TOKOMARU">-402829.000+1753035.200</Point>
+      <Point Name="TURAKINA RIVER MOUTH">-400429.000+1750811.000</Point>
       <Point Name="UNIVERSITY">-402307.200+1753706.500</Point>
       <Point Name="WATER TOWER">-395535.710+1750409.220</Point>
-      <Point Name="WHANGAEHU RIVER MOUTH">-400224.100+1750553.400</Point>
       <Point Name="WHANGANUI PORT">-395642.920+1745922.860</Point>
       <Point Name="WOODVILLE">-402013.200+1755159.600</Point>
     </Symbol>
@@ -349,9 +353,9 @@
       <Point Name="THE PONDS">-405935.000+1754100.000</Point>
       <Point Name="TIMBER MILL">-405802.900+1753609.700</Point>
       <Point Name="TOKOMARU">-402829.000+1753035.200</Point>
+      <Point Name="TURAKINA RIVER MOUTH">-400429.000+1750811.000</Point>
       <Point Name="UNIVERSITY">-402307.200+1753706.500</Point>
       <Point Name="WATER TOWER">-395535.710+1750409.220</Point>
-      <Point Name="WHANGAEHU RIVER MOUTH">-400224.100+1750553.400</Point>
       <Point Name="WHANGANUI PORT">-395642.920+1745922.860</Point>
       <Point Name="WOODVILLE">-402013.200+1755159.600</Point>
     </Label>
