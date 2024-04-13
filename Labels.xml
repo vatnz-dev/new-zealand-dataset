@@ -16,7 +16,7 @@
       <Item Type="LABEL_ITEM_GROUNDSPEED" Colour="" LeftClick="" MiddleClick="" RightClick="" LeftPadding=""/>
     </DataLine>
   </Label>
-  <Label Type="Quicktag" MaximumWidth="13" LabelRectangle="Default">
+  <Label Type="Quicktag" MaximumWidth="18" LabelRectangle="Default">
     <DataLine>
       <Item Type="LABEL_ITEM_CPROMPT" Colour="CFLHighlight" LeftClick="" MiddleClick="Label_CPrompt" RightClick=""/>
       <Item Type="LABEL_ITEM_EMERG" Colour="Emergency" BackgroundColour="Warning" LeftClick="" MiddleClick="Label_Emerg" RightClick="" LeftPadding="2"/>
@@ -35,7 +35,7 @@
       <Item Type="LABEL_ITEM_OPDATA" BackgroundColour="" Colour="" LeftClick="Label_OpData_Popup" MiddleClick="" RightClick=""/>
     </DataLine>
   </Label>
-  <Label Type="Normal" MaximumWidth="16" LabelRectangle="Default">
+  <Label Type="Normal" MaximumWidth="20" LabelRectangle="Default">
 	  <DataLine Visibility="Hidden">
       <Item Type="LABEL_ITEM_CPDLC_MESSAGE" BackgroundColour="CPDLCDownlink" LeftClick="Label_CPDLC_Menu" MiddleClick="Label_CPDLC_Message_Toggle" RightClick="Label_CPDLC_Editor"/>
     </DataLine>
@@ -58,7 +58,7 @@
       <Item Type="LABEL_ITEM_OPDATA" BackgroundColour="" Colour="" LeftClick="Label_OpData_Popup" MiddleClick="" RightClick="Label_Toggle_1"/>
     </DataLine>
   </Label>
-  <Label Type="Extended" MaximumWidth="16" LabelRectangle="Default">
+  <Label Type="Extended" MaximumWidth="20" LabelRectangle="Default">
 	  <DataLine Visibility="Hidden">
       <Item Type="LABEL_ITEM_CPDLC_MESSAGE" BackgroundColour="CPDLCDownlink" LeftClick="Label_CPDLC_Menu" MiddleClick="Label_CPDLC_Message_Toggle" RightClick="Label_CPDLC_Editor"/>
     </DataLine>
@@ -84,7 +84,7 @@
       <Item Type="LABEL_ITEM_OPDATA" BackgroundColour="" Colour="" LeftClick="Label_OpData_Popup" MiddleClick="" />
     </DataLine>
   </Label>
-  <Label Type="GroundAir" MaximumWidth="16" LabelRectangle="None">
+  <Label Type="GroundAir" MaximumWidth="20" LabelRectangle="None">
     <DataLine>
       <Item Type="LABEL_ITEM_EMERG" Colour="Emergency" LeftClick="" MiddleClick="Label_Emerg" RightClick="" LeftPadding="1"/>
       <Item Type="LABEL_ITEM_WARNING" Colour="Warning" LeftClick="" MiddleClick="Label_Warning" RightClick="" LeftPadding="1"/>
@@ -92,7 +92,7 @@
     <DataLine>
       <Item Type="LABEL_ITEM_ACID" Colour="" LeftClick="Label_ACID_Menu" />
       <Item Type="LABEL_ITEM_WAKETURBCAT" Colour="" LeftClick="" MiddleClick="" RightClick="" LeftPadding="1"/>
-      <Item Type="LABEL_ITEM_GROUNDSPEED" Colour="" LeftClick="" MiddleClick="" RightClick=""/>
+      <Item Type="LABEL_ITEM_GROUNDSPEED" Colour="" LeftClick="" MiddleClick="" RightClick="" LeftPadding="1"/>
     </DataLine>
     <DataLine>
       <Item Type="LABEL_ITEM_LEVEL" Colour="" LeftClick="" MiddleClick="" RightClick="Label_Move"/>

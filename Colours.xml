@@ -165,10 +165,10 @@
   </Colour>
   <Colour id="VSCSHotline">
     <Use>Closed VSCS Hotlines</Use>
-    <Name>Red</Name>
-    <R>235</R>
-    <G>80</G>
-    <B>75</B>
+    <Name>Grey</Name>
+    <R>0</R>
+    <G>0</G>
+    <B>0</B>
   </Colour>
   <Colour id="VSCSOpenHotline">
     <Use>Open VSCS Hotlines</Use>
