@@ -139,17 +139,17 @@
 	
 	<!-- Ground Circle -->
 	<TrackSymbol Type="GroundLight" StrokeWidth="0">
-		<EllipseGeometry Center="0,0" RadiusX="6" RadiusY="6" />
+		<EllipseGeometry Center="0,0" RadiusX="3" RadiusY="3" />
 	</TrackSymbol>
 	
 	<!-- Ground Circle -->
 	<TrackSymbol Type="GroundMedium" StrokeWidth="0">
-		<EllipseGeometry Center="0,0" RadiusX="6" RadiusY="6" />
+		<EllipseGeometry Center="0,0" RadiusX="3" RadiusY="3" />
 	</TrackSymbol>
 	
 	<!-- Ground Circle -->
-	<TrackSymbol Type="GroundHeavy" StrokeWidth="3">
-		<EllipseGeometry Center="0,0" RadiusX="5" RadiusY="5" />
+	<TrackSymbol Type="GroundHeavy" StrokeWidth="0">
+		<EllipseGeometry Center="0,0" RadiusX="3" RadiusY="3" />
 	</TrackSymbol>
 
 </TrackSymbols>

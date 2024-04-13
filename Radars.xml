@@ -1,52 +1,64 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Radars>
   <Radar Name="Auckland Pri" Type="PRI" Elevation="30" MaxRange="80">
-    <Lat>-37.0157688888889</Lat>
-    <Long>174.8078</Long>
+    <Lat>-37.01528320582161</Lat> 
+    <Long>174.8044006929194</Long>
   </Radar>
   <Radar Name="Hawkins Hill Pri/ADSB/C" Type="PRI" Elevation="1591" MaxRange="80">
-    <Lat>-41.3299</Lat>
-    <Long>174.725572222222</Long>
+    <Lat>-41.32986264428646</Lat>
+    <Long>174.7255932896592</Long>
   </Radar>
   <Radar Name="Hawkins Hill Pri/ADSB/C" Type="SSR_ModeC" Elevation="1591" MaxRange="230">
-    <Lat>-41.3299</Lat>
-    <Long>174.725572222222</Long>
+    <Lat>-41.32986264428646</Lat>
+    <Long>174.7255932896592</Long>
   </Radar>
   <Radar Name="Hawkins Hill Pri/ADSB/C" Type="ADSB" Elevation="1591" MaxRange="256">
-    <Lat>-41.3299</Lat>
-    <Long>174.725572222222</Long>
+    <Lat>-41.32986264428646</Lat>
+    <Long>174.7255932896592</Long>
   </Radar>
   <Radar Name="Christchruch Pri" Type="PRI" Elevation="123" MaxRange="80">
-    <Lat>-43.5041</Lat>
-    <Long>172.514613888889</Long>
+    <Lat>-43.4926731512827</Lat> 
+    <Long>172.522334998783</Long>
   </Radar>
   <Radar Name="Rua o te Whenua ADSB/C" Type="SSR_ModeC" Elevation="1490" MaxRange="230">
-    <Lat>-36.9242777777778</Lat>
-    <Long>174.553369444444</Long>
+    <Lat>-36.9242275752241</Lat>
+    <Long>174.553345681997</Long>
   </Radar>
   <Radar Name="Rua o te Whenua ADSB/C" Type="ADSB" Elevation="1490" MaxRange="256">
-    <Lat>-36.9242777777778</Lat>
-    <Long>174.553369444444</Long>
+    <Lat>-36.9242275752241</Lat>
+    <Long>174.553345681997</Long>
   </Radar>
   <Radar Name="Te Weraiti ADSB/C" Type="SSR_ModeC" Elevation="2144" MaxRange="230">
-    <Lat>-37.8382805555556</Lat>
-    <Long>175.912230555556</Long>
+    <Lat>-37.8232627983378</Lat>
+    <Long>175.906855084137</Long>
   </Radar>
   <Radar Name="Te Weraiti ADSB/C" Type="ADSB" Elevation="2144" MaxRange="256">
-    <Lat>-37.8382805555556</Lat>
-    <Long>175.912230555556</Long>
+    <Lat>-37.8232627983378</Lat>
+    <Long>175.906855084137</Long>
   </Radar>
-  <Radar Name="Ballance ADSB" Type="ADSB" Elevation="1640" MaxRange="256">
-    <Lat>-40.4004027777778</Lat>
-    <Long>175.732505555556</Long>
+    <Radar Name="Ballance ADSB/C" Type="SSR_ModeC" Elevation="1640" MaxRange="230">
+    <Lat>-40.4003996444543</Lat>
+    <Long>175.732513375347</Long>
   </Radar>
-  <Radar Name="Mount Robertson ADSB" Type="ADSB" Elevation="3395" MaxRange="256">
-    <Lat>-41.3482666666667</Lat>
-    <Long>174.022344444444</Long>
+  <Radar Name="Ballance ADSB/C" Type="ADSB" Elevation="1640" MaxRange="256">
+    <Lat>-40.4003996444543</Lat>
+    <Long>175.732513375347</Long>
   </Radar>
-  <Radar Name="Cass Peak ADSB" Type="ADSB" Elevation="1751" MaxRange="256">
-    <Lat>-43.6358166666667</Lat>
-    <Long>172.623716666667</Long>
+    <Radar Name="Mount Robertson ADSB/C" Type="SSR_ModeC" Elevation="3395" MaxRange="230">
+    <Lat>-41.3481697431601</Lat>
+    <Long>174.022154796262</Long>
+  </Radar>
+  <Radar Name="Mount Robertson ADSB/C" Type="ADSB" Elevation="3395" MaxRange="256">
+    <Lat>-41.3481697431601</Lat>
+    <Long>174.022154796262</Long>
+  </Radar>
+   <Radar Name="Cass Peak ADSB/C" Type="SSR_ModeC" Elevation="1751" MaxRange="230">
+    <Lat>-43.63596815413164</Lat>
+    <Long>172.6238548022268</Long>
+  </Radar>
+  <Radar Name="Cass Peak ADSB/C" Type="ADSB" Elevation="1751" MaxRange="256">
+    <Lat>-43.63596815413164</Lat>
+    <Long>172.6238548022268</Long>
   </Radar>
   <Radar Name="Cardrona MLAT/ADSB" Type="ADSB" Elevation="6125" MaxRange="50">
     <Lat>-44.8569777777778</Lat>

@@ -12,7 +12,10 @@
       </Sectors>
       <Maps>
         <Map Name="Coast" />
+        <Map Name="Airspace/CTR" />
         <Map Name="Airspace/ENR Sectors" />
+        <Map Name="Airspace/ProceduralTowers" />
+        <Map Name="Airspace/Radomes" />
         <Map Name="Airspace/TMA Sectors" />
         <Map Name="Navaids/NDB" />
         <Map Name="Navaids/VOR" />
@@ -44,7 +47,10 @@
       </Sectors>
       <Maps>
         <Map Name="Coast" />
+        <Map Name="Airspace/CTR" />
         <Map Name="Airspace/ENR Sectors" />
+        <Map Name="Airspace/ProceduralTowers" />
+        <Map Name="Airspace/Radomes" />
         <Map Name="Airspace/TMA Sectors" />
         <Map Name="Navaids/NDB" />
         <Map Name="Navaids/VOR" />
@@ -71,7 +77,10 @@
       </Sectors>
       <Maps>
         <Map Name="Coast" />
+        <Map Name="Airspace/CTR" />
         <Map Name="Airspace/ENR Sectors" />
+        <Map Name="Airspace/ProceduralTowers" />
+        <Map Name="Airspace/Radomes" />
         <Map Name="Airspace/TMA Sectors" />
         <Map Name="Navaids/NDB" />
         <Map Name="Navaids/VOR" />
@@ -98,7 +107,10 @@
       </Sectors>
       <Maps>
         <Map Name="Coast" />
+        <Map Name="Airspace/CTR" />
         <Map Name="Airspace/ENR Sectors" />
+        <Map Name="Airspace/ProceduralTowers" />
+        <Map Name="Airspace/Radomes" />
         <Map Name="Airspace/TMA Sectors" />
         <Map Name="Navaids/NDB" />
         <Map Name="Navaids/VOR" />
@@ -136,7 +148,10 @@
       </Sectors>
       <Maps>
         <Map Name="Coast" />
+        <Map Name="Airspace/CTR" />
         <Map Name="Airspace/ENR Sectors" />
+        <Map Name="Airspace/ProceduralTowers" />
+        <Map Name="Airspace/Radomes" />
         <Map Name="Airspace/TMA Sectors" />
         <Map Name="Navaids/NDB" />
         <Map Name="Navaids/VOR" />
@@ -163,7 +178,10 @@
       </Sectors>
       <Maps>
         <Map Name="Coast" />
+        <Map Name="Airspace/CTR" />
         <Map Name="Airspace/ENR Sectors" />
+        <Map Name="Airspace/ProceduralTowers" />
+        <Map Name="Airspace/Radomes" />
         <Map Name="Airspace/TMA Sectors" />
         <Map Name="Navaids/NDB" />
         <Map Name="Navaids/VOR" />
@@ -193,7 +211,10 @@
       </Sectors>
       <Maps>
         <Map Name="Coast" />
+        <Map Name="Airspace/CTR" />
         <Map Name="Airspace/ENR Sectors" />
+        <Map Name="Airspace/ProceduralTowers" />
+        <Map Name="Airspace/Radomes" />
         <Map Name="Airspace/TMA Sectors" />
         <Map Name="Navaids/NDB" />
         <Map Name="Navaids/VOR" />
@@ -226,6 +247,7 @@
         <Map Name="Airspace/Aerodromes" />
         <Map Name="Airspace/CTA" />
         <Map Name="Airspace/CTR" />
+        <Map Name="Airspace/Radomes" />        
         <Map Name="Navaids/NDB" />
         <Map Name="Navaids/VOR" />
       </Maps>
@@ -285,6 +307,7 @@
         <Map Name="Airspace/Aerodromes" />
         <Map Name="Airspace/CTA" />
         <Map Name="Airspace/CTR" />
+        <Map Name="Airspace/Radomes" />
         <Map Name="Navaids/NDB" />
         <Map Name="Navaids/VOR" />
       </Maps>
@@ -343,6 +366,7 @@
         <Map Name="Airspace/Aerodromes" />
         <Map Name="Airspace/CTA" />
         <Map Name="Airspace/CTR" />
+        <Map Name="Airspace/Radomes" />
         <Map Name="Navaids/NDB" />
         <Map Name="Navaids/VOR" />
       </Maps>
@@ -393,6 +417,7 @@
         <Map Name="Airspace/Aerodromes" />
         <Map Name="Airspace/CTA" />
         <Map Name="Airspace/CTR" />
+        <Map Name="Airspace/Radomes" />
         <Map Name="Navaids/NDB" />
         <Map Name="Navaids/VOR" />
       </Maps>
@@ -437,6 +462,7 @@
         <Map Name="Airspace/Aerodromes" />
         <Map Name="Airspace/CTA" />
         <Map Name="Airspace/CTR" />
+        <Map Name="Airspace/Radomes" />
         <Map Name="Navaids/NDB" />
         <Map Name="Navaids/VOR" />
       </Maps>
@@ -476,6 +502,7 @@
         <Map Name="Airspace/Aerodromes" />
         <Map Name="Airspace/CTA" />
         <Map Name="Airspace/CTR" />
+        <Map Name="Airspace/Radomes" />
         <Map Name="Navaids/NDB" />
         <Map Name="Navaids/VOR" />
       </Maps>
@@ -529,6 +556,7 @@
         <Map Name="Airspace/Aerodromes" />
         <Map Name="Airspace/CTA" />
         <Map Name="Airspace/CTR" />
+        <Map Name="Airspace/Radomes" />
         <Map Name="Navaids/NDB" />
         <Map Name="Navaids/VOR" />
       </Maps>
@@ -559,6 +587,7 @@
         <Map Name="Airspace/Aerodromes" />
         <Map Name="Airspace/CTA" />
         <Map Name="Airspace/CTR" />
+        <Map Name="Airspace/Radomes" />
         <Map Name="Navaids/NDB" />
         <Map Name="Navaids/VOR" />
       </Maps>
@@ -589,6 +618,7 @@
         <Map Name="Airspace/Aerodromes" />
         <Map Name="Airspace/CTA" />
         <Map Name="Airspace/CTR" />
+        <Map Name="Airspace/Radomes" />
         <Map Name="Navaids/NDB" />
         <Map Name="Navaids/VOR" />
       </Maps>
@@ -619,6 +649,7 @@
         <Map Name="Airspace/Aerodromes" />
         <Map Name="Airspace/CTA" />
         <Map Name="Airspace/CTR" />
+        <Map Name="Airspace/Radomes" />
         <Map Name="Navaids/NDB" />
         <Map Name="Navaids/VOR" />
       </Maps>
@@ -649,6 +680,7 @@
         <Map Name="Airspace/Aerodromes" />
         <Map Name="Airspace/CTA" />
         <Map Name="Airspace/CTR" />
+        <Map Name="Airspace/Radomes" />
         <Map Name="Navaids/NDB" />
         <Map Name="Navaids/VOR" />
       </Maps>
@@ -684,6 +716,7 @@
         <Map Name="Airspace/Aerodromes" />
         <Map Name="Airspace/CTA" />
         <Map Name="Airspace/CTR" />
+        <Map Name="Airspace/Radomes" />
         <Map Name="Navaids/NDB" />
         <Map Name="Navaids/VOR" />
       </Maps>
@@ -716,6 +749,7 @@
         <Map Name="Airspace/Aerodromes" />
         <Map Name="Airspace/CTA" />
         <Map Name="Airspace/CTR" />
+        <Map Name="Airspace/Radomes" />
         <Map Name="Navaids/NDB" />
         <Map Name="Navaids/VOR" />
       </Maps>
@@ -741,6 +775,7 @@
         <Map Name="Airspace/Aerodromes" />
         <Map Name="Airspace/CTA" />
         <Map Name="Airspace/CTR" />
+        <Map Name="Airspace/Radomes" />
         <Map Name="Navaids/NDB" />
         <Map Name="Navaids/VOR" />
       </Maps>

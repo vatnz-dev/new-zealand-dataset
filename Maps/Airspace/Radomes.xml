@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="System" Name="Radomes" Priority="1" Center="-42.000+172.000">
+    <Symbol Type="Circle">
+        <Point Name="Rua o te Whenua">-36.9242275752241+174.553345681997</Point>
+        <Point Name="Te Weraiti">-37.8232627983378+175.906855084137</Point>
+        <Point Name="Ballance">-40.4003996444543+175.732513375347</Point>
+        <Point Name="Hawkins Hill">-41.32986264428646+174.7255932896592</Point>
+        <Point Name="Mount Robertson">-41.3481697431601+174.022154796262</Point>
+        <Point Name="Cass Peak">-43.63596815413164+172.6238548022268</Point>
+    </Symbol>
+  </Map>
+</Maps>

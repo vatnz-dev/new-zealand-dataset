@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Maps>
   <Map Type="System" Name="Aerodromes" Priority="1" Center="-42.000+172.000">
-    <Symbol Type="HollowTriangle">
+    <Symbol Type="HollowStar">
       <Point>NZAA</Point>
       <Point>NZAH</Point>
       <Point>NZAL</Point>

@@ -160,6 +160,18 @@
         <Translation Regex="([012]\d|[3][0123456])R" Spoken="$1 right" />
         <Translation Regex="([012]\d|[3][0123456])C" Spoken="$1 centre" />
 
+        <!--Recognition of runway condition data matrix reports, recognises x/x/x y/y/y z/z/z a/a/a where x is a number between 0 and 6, y is percentage of runway part, z is millimetres 
+        of contamination and a/a/a is description of contamination. Also recognises NR/NR/NR being not reported and DRY/DRY/DRY, WET/WET/WET and DAMP/DAMP/DAMP being all parts dry, wet and damp
+        respectively-->
+
+        <Translation Regex="CODES ([0-6])/([0-6])/([0-6])" Spoken="codes $1, $2, $3" />
+        <Translation Regex="CODE ([0-6])/([0-6])/([0-6])" Spoken="code $1, $2, $3" />
+        <Translation String="NR/NR/NR" Spoken="" />
+        <Translation String="DRY/DRY/DRY" Spoken="All parts dry" />
+        <Translation String="WET/WET/WET" Spoken="All parts wet" />
+        <Translation String="DAMP/DAMP/DAMP" Spoken="All parts damp" />
+        <Translation Regex="(25|50|75|100)/(25|50|75|100)/(25|50|75|100) (\d)/(\d)/(\d) ([a-zA-Z _])/([a-zA-Z _])\([a-zA-Z _])" Spoken="first part $3 percent $6 millimetres $9, second part $2 percent $5 millimetres $8, third part $1 percent $4 millimetres $7" />
+
         <Translation String="WIND" Spoken="wind:" />
         <!--This regex will change xxx/yyy to xxx degrees, yyy knots-->
         <Translation Regex="(\d{3})\/(\d{1,3})" Spoken="$1 degrees, $2 knots" />
