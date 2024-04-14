@@ -54,7 +54,7 @@
   
   <Bin>
     <Rule Remarks="(\/|\b)(RAAF|MILITARY|USAF|RAF|RAN|ARMY|RNZAF|ORI|STATE|HER|BOE|KIW|VSOA)\b"/>
-	  <Rule Callsign="(BOE|KIW|POS|ORI|HER|CDT|TEX|KAH|FAL)" />
+	  <Rule Callsign="(BOE|KIW|POS|PDN|ORI|HER|CDT|TEX|KAH|FAL)" />
     <Codes Start="6300" End="6477"/>
   </Bin>
   
