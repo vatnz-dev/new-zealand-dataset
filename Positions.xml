@@ -876,9 +876,11 @@
     <Position Name="NZGS" Type="ASMGCS" ASMGCSAirport="NZGS" DefaultCenter="-383958.905+1775858.973" DefaultRange="2" MagneticVariation="-21.4" Rotation="0">
       <Maps>
         <Map Name="NZGS/ASMGCS_NZGS_RWY" />
+        <Map Name="NZGS/ASMGCS_NZGS_GRASS" />
         <Map Name="NZGS/ASMGCS_NZGS_APR" />
-        <Map Name="NZGS/ASMGCS_NZGS_BLD" />
         <Map Name="NZGS/ASMGCS_NZGS_TWY" />
+        <Map Name="NZGS/ASMGCS_NZGS_BLD" />
+        <Map Name="NZGS/ASMGCS_NZGS_yellowHS" />
       </Maps>
     </Position>
     <Position Name="NZTG" Type="ASMGCS" ASMGCSAirport="NZTG" DefaultCenter="-374018.998+1761146.000" DefaultRange="2" MagneticVariation="-20.6" Rotation="0">
