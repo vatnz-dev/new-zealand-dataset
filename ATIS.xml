@@ -190,6 +190,7 @@
         <Translation Regex="[0]{0,3}(\d+)M" Spoken="$1 meters" />
         <Translation String="10KM" Spoken="1 0 kilometres" />
         <Translation Regex="[0]{0,1}(\d+)KM" Spoken="$1 kilometres" />
+        <Translation String="VV" Spoken= "vertical visibility" />
         <Translation String="RVR" Spoken="rvr" />
         <Translation String="GT" Spoken="greater than" />
         <Translation String="TDZ" Spoken="touchdown" />
@@ -228,10 +229,10 @@
         <Translation String="SQ" Spoken="squall" />
         <Translation String="FC" Spoken="funnel cloud" />
         <Translation String="VA" Spoken="volcanic ash" />
-        <Translation String="VC" Spoken="vicinity" />
+        <Translation String="VCY" Spoken="vicinity" />
         <Translation String="IC" Spoken="ice crystals" />
         <Translation String="PL" Spoken="ice pellets" />
-        <Translation String="VCSH" Spoken="showers in the vicinity" />
+        <Translation String="VCSH" Spoken="showers in vicinity" />
         <Translation String="SIA" Spoken="showers in area" />
         <Translation String="TS" Spoken="thunderstorm" />
         <Translation String="TSRA" Spoken="thunderstorms and rain" />
@@ -261,6 +262,7 @@
         <Input name="RWY COND" NameIsSpoken="true" InputType="Edit" />
         <Input name="SFC WIND" NameIsSpoken="true" InputType="Edit" METARField="Wind" />
         <Input name="VIS" NameIsSpoken="true" InputType="Edit" NumbersSpokenGrouped="true" />
+        <Input name="WX" NameIsSpoken="false" InputType="Edit" />
         <Input name="CLD" NameIsSpoken="true" InputType="Edit" NumbersSpokenGrouped="true" />
         <Input name="TMP" NameIsSpoken="true" InputType="Edit" />
         <Input name="DP" NameIsSpoken="true" InputType="Edit" METARField="DewPoint" />
